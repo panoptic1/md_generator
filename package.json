@@ -1,0 +1,19 @@
+{
+  "name": "md_generator",
+  "version": "1.0.0",
+  "description": "A command line based app to dynamically generate README files",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panoptic1/md_generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panoptic1/md_generator/issues"
+  },
+  "homepage": "https://github.com/panoptic1/md_generator#readme"
+}
